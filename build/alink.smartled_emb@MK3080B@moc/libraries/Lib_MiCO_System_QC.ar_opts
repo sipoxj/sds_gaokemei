@@ -1,0 +1,1 @@
+./build/alink.smartled_emb@MK3080B@moc/Modules/mico-os/MiCO/system/qc_test/qc_test.o ./build/alink.smartled_emb@MK3080B@moc/Modules/mico-os/MiCO/system/qc_test/internal/qc_test_tcpip.o ./build/alink.smartled_emb@MK3080B@moc/Modules/mico-os/MiCO/system/qc_test/internal/qc_test_ble.o ./build/alink.smartled_emb@MK3080B@moc/Modules/mico-os/MiCO/system/qc_test/internal/qc_test_cli.o  

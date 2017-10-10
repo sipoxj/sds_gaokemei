@@ -1,0 +1,28 @@
+
+                        MICO MEMORY MAP                            
+|=================================================================|
+| MODULE                                   | ROM       | RAM      |
+|=================================================================|
+| App_Smaartled_emb                        | 4196      | 964      |
+| Board_MK3080                             | 291       | 0        |
+| crt0_GCC                                 | 124       | 0        |
+| libc_nano                                | 14171     | 164      |
+| libgcc                                   | 3320      | 0        |
+| Lib_Alink                                | 12267     | 721      |
+| Lib_Alink_emb                            | 3461      | 117      |
+| lib_alink_emb_fpu_sds                    | 81741     | 12466    |
+| Lib_gpio_button_MK3080B                  | 224       | 200      |
+| Lib_MiCO_Kernel                          | 1642      | 16       |
+| Lib_MiCO_System                          | 15090     | 229      |
+| Lib_Utilities                            | 8677      | 0        |
+| mem_newlib                               | 104       | 0        |
+| MiCO_mocIP_Interface                     | 308       | 0        |
+| MiCO_mocOS_Interface                     | 887       | 8        |
+| mico_system_power_daemon                 | 681       | 25       |
+| mocSSL                                   | 72        | 0        |
+| MX1290                                   | 1597      | 964      |
+| stdio_newlib                             | 110       | 0        |
+| *fill*                                   | 122       | 54       |
+|=================================================================|
+| TOTAL (bytes)                            | 149085    | 15928    |
+|=================================================================|
